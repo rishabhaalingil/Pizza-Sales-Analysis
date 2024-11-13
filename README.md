@@ -52,10 +52,10 @@ The objective of the Pizza Sales is to comprehensively evaluate sales data to un
 
 # Significance
 The results of the analysis are certainly a valuable piece of information that can help any business owner with:
-1️. Sales tracking
-2️. Find out the flaws within the business
-3️. Create strategies to further improve pizza flavors or service
-4. Consumer preferences and a lot more.
+ 1️. Sales tracking
+ 2️. Find out the flaws within the business
+ 3️. Create strategies to further improve pizza flavors or service
+ 4. Consumer preferences and a lot more.
 
 # Summary
  Key Analysis :
